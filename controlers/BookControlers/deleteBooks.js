@@ -2,7 +2,7 @@ const Book = require('../../models/BookSchema');
 
 const deleteBook = async (req, res) => {
     try {
-        const bookId = req.params.id;
+        const bookId = parseInt(req.params.id);
         const book = await Book.findOne({ id: bookId });
 
         if (!book) return res.status(400).json({ msg: "No Book Found" });
@@ -15,4 +15,4 @@ const deleteBook = async (req, res) => {
         res.status(500).json({ message: "Internal Server error" });
     }
 }
-module.exports = deleteBook;
+module.exports = deleteBook;

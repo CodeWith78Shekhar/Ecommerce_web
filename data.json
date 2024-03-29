@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "book_name": "Hello Server",
+      "book_description": "A comprehensive guide to server management and administration.",
+      "author": "Shekhar",
+      "genre": "Technology",
+      "language": "English",
+      "year_of_publication": 2015,
+      "ISBN": "55858552",
+      "price": 52
+    },
+    {
+      "id": 2,
+      "book_name": "Programming Basics",
+      "book_description": "An introductory book for beginners in programming.",
+      "author": "John Doe",
+      "genre": "Programming",
+      "language": "English",
+      "year_of_publication": 2018,
+      "ISBN": "12345678",
+      "price": 45
+    },
+    {
+      "id": 3,
+      "book_name": "Mystery of the Lost Island",
+      "book_description": "A thrilling adventure novel set on a remote island.",
+      "author": "Jane Smith",
+      "genre": "Adventure",
+      "language": "English",
+      "year_of_publication": 2020,
+      "ISBN": "98765432",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "book_name": "The Art of Negotiation",
+      "book_description": "Learn the strategies and techniques of successful negotiation.",
+      "author": "Michael Johnson",
+      "genre": "Self-Help",
+      "language": "English",
+      "year_of_publication": 2019,
+      "ISBN": "45678901",
+      "price": 40
+    },
+    {
+      "id": 5,
+      "book_name": "Cooking with Flavors",
+      "book_description": "A collection of recipes from around the world.",
+      "author": "Maria Garcia",
+      "genre": "Cooking",
+      "language": "English",
+      "year_of_publication": 2017,
+      "ISBN": "13579024",
+      "price": 30
+    },
+    {
+      "id": 6,
+      "book_name": "The Power of Now",
+      "book_description": "A guide to spiritual enlightenment and living in the present.",
+      "author": "Eckhart Tolle",
+      "genre": "Spirituality",
+      "language": "English",
+      "year_of_publication": 2004,
+      "ISBN": "24680135",
+      "price": 25
+    },
+    {
+      "id": 7,
+      "book_name": "The Great Gatsby",
+      "book_description": "A classic novel depicting the Jazz Age in America.",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "language": "English",
+      "year_of_publication": 1925,
+      "ISBN": "97531024",
+      "price": 20
+    },
+    {
+      "id": 8,
+      "book_name": "Astrophysics for Young Readers",
+      "book_description": "Introduction to astrophysics tailored for young readers.",
+      "author": "Neil deGrasse Tyson",
+      "genre": "Science",
+      "language": "English",
+      "year_of_publication": 2021,
+      "ISBN": "31415926",
+      "price": 28
+    },
+    {
+      "id": 9,
+      "book_name": "Alchemist",
+      "book_description": "A novel about following your dreams and destiny.",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "language": "English",
+      "year_of_publication": 1988,
+      "ISBN": "27182818",
+      "price": 22
+    },
+    {
+      "id": 10,
+      "book_name": "Educated",
+      "book_description": "A memoir about the author's journey from a survivalist family to Cambridge University.",
+      "author": "Tara Westover",
+      "genre": "Biography",
+      "language": "English",
+      "year_of_publication": 2018,
+      "ISBN": "36925814",
+      "price": 32
+    }
+  ]
+  
